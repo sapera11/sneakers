@@ -1,0 +1,115 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+  }
+  .logo{
+    width: 50px;
+    height: 20px;
+  }
+  
+  .card{
+    width: 500px;
+    border: none;
+  
+  }
+  
+  .col{
+    margin-top: 60px;
+    
+   display: flex;
+    width: 100%;
+    height: 300px;
+  
+  }
+  .text{
+    margin-top: 40px;
+    width: 350px;
+    
+    margin-left: 150px;
+  }
+  
+  .up{
+    color: rgb(230, 86, 33);
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 8px;
+    font-weight: bold;
+    letter-spacing: 1px;
+  
+  }
+  
+  .words{
+    color: black;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    line-height: 30px;
+  
+  }  
+  
+  p{
+     font-family: 'Kumbh Sans', sans-serif;
+    font-size: 12px;
+    margin-top: 25px;
+    }
+  
+    .num {
+      font-family: 'Kumbh Sans', sans-serif;
+      font-size: 20px;
+      font-weight: bold;
+    
+      
+      color: black;
+  
+    }
+  
+    .last{
+      font-family: 'Kumbh Sans', sans-serif;
+      font-size: 13px;
+      font-weight:bold;
+    
+   
+      text-decoration:line-through;
+      margin-bottom: 10px;
+      
+    }
+  
+    .btn-group{
+     margin-top: 10px;
+     
+     border-radius: 8px;
+      
+    }
+    .btnn {
+      
+      margin-left: 15px;
+      width: 160px;
+      font-family: 'Kumbh Sans', sans-serif;
+      font-size: 11px;
+      font-weight:bold;
+      color: white;
+      background-color:rgb(230, 86, 33);
+    
+    }
+    .lat{
+      padding-right: 15px;
+     
+    }
+  
+    .all-pix{
+      
+      display: flex;
+      height: 20px;
+      
+    
+    }
+    .home{
+  
+      opacity: 0.6;
+     
+    
+   
+  
+   
+  }
